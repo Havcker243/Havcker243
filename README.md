@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Havcker243
+- 👋 Hi, I’m dolapo
 - 👀 I’m interested in games and projects 
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on everything 
